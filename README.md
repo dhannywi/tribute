@@ -1,7 +1,7 @@
 # Responsive Web Design Projects - Build a Tribute Page
 
 ### Tribute page for Michelle Obama, created as part of Freecodecamp's Responsive Web Design Projects.
-The final demo can be viewed here: https://dhannywi.me/tribute<br><br>
+Live demo can be viewed here: https://dhannywi.github.io/projects/tribute-page/michelle-obama<br><br>
 <img src="https://64.media.tumblr.com/7d32a61f50e6305a2e1b9ce1360591b4/c7cb57dee1c53494-b7/s1280x1920/02d3c4a74a49decfe0493dd198ab22b667db071a.png" alt="Becoming-tribute"/>
 <br><br>
 The user stories requirements can be found below:
